@@ -24,13 +24,10 @@ Some new markdown styling tricks have been used thought [this](./) document:
 
 ## Footnotes
 
-[^1]: provided README.md [README.md](/README.md)  
-> `Create a new markdown file in this repository.`
+[^1]: "Create a new markdown file in this repository." [README.md](/README.md) 
 
-[^2]: provided [README.md](/README.md)  
-> `Let us know what you learned and what you are still confused about!` 
+[^2]: "Let us know what you learned and what you are still confused about!" [README.md](/README.md)  
 
-[^3]: provided README.md [README.md](/README.md) 
-> `Experiment with different styles!` 
+[^3]: "Experiment with different styles!" [README.md](/README.md) 
 
 [^4]: like me!
